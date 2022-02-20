@@ -1,7 +1,7 @@
 # import
+from fractions import Fraction
 
 # Hello World
-from fractions import Fraction
 
 print("Hello world")
 
