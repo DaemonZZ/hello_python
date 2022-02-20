@@ -122,3 +122,21 @@ for i in inter_:
 s = "KimChi"
 for i in s:
     print(i)
+
+
+# Function
+
+def say_hi(name):
+    print('Hello', name)  # No return
+
+
+say_hi("KimChi")
+
+
+def tong(u, v):
+    return u + v  # With return
+
+
+print(tong(4, 7))
+
+
